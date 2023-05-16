@@ -14,8 +14,8 @@
 	<name>PogrebM</name>
 	<description>TgBot</description>
 	<properties>
-		<java.version>11</java.version>
-		<telegram.version>6.1.0</telegram.version>
+		<java.version>17</java.version>
+		<telegram.version>6.3.0</telegram.version>
 	</properties>
 	<dependencies>
 
